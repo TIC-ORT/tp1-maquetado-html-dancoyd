@@ -1,0 +1,114 @@
+.parte1{
+    height:300px ;
+    width: 100%;
+    background-color: rgb(255, 212, 94);
+    position: absolute;
+
+}
+.cuadrado{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(219, 154, 34);
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.pepe{
+    position: absolute;
+    height: 40px;
+    width: 300px;
+    background-color: rgb(233, 171, 57);
+    margin-left: 45%;
+    margin-top:40px;
+}
+.pepe1{
+    position: absolute;
+    height: 20px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 45%;
+    margin-top:100px;
+}
+.pepe2{
+    position: absolute;
+    height: 20px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 45%;
+    margin-top:130px;
+}
+.pepe3{
+    position: absolute;
+    height: 20px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 45%;
+    margin-top:160px;
+}
+.pepe4{
+    position: absolute;
+    height: 20px;
+    width: 400px;
+    background-color: rgb(252, 252, 252);
+    margin-left: 45%;
+    margin-top:190px;
+}
+.cuadrado2{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 25%;
+}
+.cuadrado3{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 45%;
+}
+.cuadrado4{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 65%;
+}
+.cuadrado5{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 65%;
+}
+.cuadrado6{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 45%;
+}
+.cuadrado7{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 25%;
+}
+.parte3{
+    height:300px ;
+    width: 100%;
+    background-color: rgb(133, 127, 127);
+    position: absolute;
+    margin-top: 800px;
+
+}
+
+
+
